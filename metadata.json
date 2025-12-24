@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Copy of Nexus Core: Architecture Simulator",
+  "description": "A high-fidelity, futuristic visualization of a 16-bit Single-Cycle Harvard Architecture processor. Features a 'Matrix-style' debugging experience, stepping through Fetch, Decode, Execute, and Write-Back stages with real-time signal flow visualization.",
+  "requestFramePermissions": []
+}
